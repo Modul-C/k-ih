@@ -5,3 +5,7 @@ body {
   margin-top: 20px;
   font-size: 2em;
 }
+
+#ollama-app {
+  margin-top: 40px;
+}
